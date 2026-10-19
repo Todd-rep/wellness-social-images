@@ -1,1 +1,2 @@
 proof of dedicated-key push 2026-10-19T22:38:04Z
+proof: deploy-key-only push 2026-10-19T22:49:57Z, gh logged out
