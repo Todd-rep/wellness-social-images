@@ -1,3 +1,4 @@
 proof of dedicated-key push 2026-10-19T22:38:04Z
 proof: deploy-key-only push 2026-10-19T22:49:57Z, gh logged out
 proof: pushed using persistent ~/.claude/.ssh-vault/wsi_deploy_key 2026-10-20T13:29:07Z
+proof: pushed using persistent ~/.claude/.ssh-vault/wsi_deploy_key, key re-added manually in browser 2026-10-20T17:16:14Z
